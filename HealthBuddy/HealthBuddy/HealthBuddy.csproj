@@ -71,6 +71,7 @@
     <Compile Include="Calculator\WomanCaloriesCalculator.cs" />
     <Compile Include="Calculator\WomanWaterNeedsCalculator.cs" />
     <Compile Include="Calculator\WomenDietCalculator.cs" />
+    <Compile Include="Exceptions\UnhealthyException.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\User.cs" />
     <Page Include="MainWindow.xaml">

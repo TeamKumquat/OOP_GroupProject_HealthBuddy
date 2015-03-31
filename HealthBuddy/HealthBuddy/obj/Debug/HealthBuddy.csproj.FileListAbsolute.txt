@@ -51,3 +51,6 @@ C:\Users\Solara\Documents\Visual Studio 2013\Projects\HealthBuddy 1.0 DB + Calc\
 C:\Users\Solara\Documents\Visual Studio 2013\Projects\HealthBuddy 1.0 DB + Calc\solution_old\HealthBuddy\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Solara\Documents\Visual Studio 2013\Projects\HealthBuddy 1.0 DB + Calc\solution_old\HealthBuddy\bin\Debug\EntityFramework.xml
 C:\Users\Solara\Documents\Visual Studio 2013\Projects\HealthBuddy 1.0 DB + Calc\solution_old\HealthBuddy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mbyte\Documents\GitHub\OOP_GroupProject_HealthBuddy\HealthBuddy\HealthBuddy\bin\Debug\HealthBuddy.exe.config
+C:\Users\Mbyte\Documents\GitHub\OOP_GroupProject_HealthBuddy\HealthBuddy\HealthBuddy\obj\Debug\HealthBuddy.exe
+C:\Users\Mbyte\Documents\GitHub\OOP_GroupProject_HealthBuddy\HealthBuddy\HealthBuddy\obj\Debug\HealthBuddy.pdb
